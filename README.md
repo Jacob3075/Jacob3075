@@ -53,6 +53,6 @@
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Jacob3075&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
-![](https://github-readme-stats.vercel.app/api/wakatime?username=Jacob3075&layout=compact&theme=tokyonight&hide_border=true&range=last_7_days)
+![](https://github-readme-stats.vercel.app/api/wakatime?username=Jacob3075&layout=compact&theme=tokyonight&hide_border=true&range=last_7_days&langs_count=4)
 ---
 [![](https://visitcount.itsvg.in/api?id=Jacob3075&icon=0&color=0)](https://visitcount.itsvg.in)
