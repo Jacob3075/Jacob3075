@@ -3,11 +3,11 @@
 
 - 🌱 I’m currently learning **Android, Jetpack Compose, Flutter, Spring Boot, Vert.x**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Jacob3075?tab=repositories](https://github.com/Jacob3075?tab=repositories)
+- 👨‍💻 All of my projects are available at [Github](https://github.com/Jacob3075?tab=repositories)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/jacob bosco" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jacob bosco" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/jacob-bosco" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jacob bosco" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/13181948" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="13181948" height="30" width="40" /></a>
 </p>
 
