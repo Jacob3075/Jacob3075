@@ -55,4 +55,7 @@
 
 ![](https://github-readme-stats.vercel.app/api/wakatime?username=Jacob3075&layout=compact&theme=tokyonight&hide_border=true&range=last_7_days&langs_count=4)
 ---
+
+[![@jacob3076's Holopin board](https://holopin.me/jacob3076)](https://holopin.io/@jacob3076)
+
 [![](https://visitcount.itsvg.in/api?id=Jacob3075&icon=0&color=0)](https://visitcount.itsvg.in)
