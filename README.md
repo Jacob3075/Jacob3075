@@ -1,8 +1,3 @@
-# 💫About Me :
-🌱 I’m currently learning **Android, Jetpack Compose, Flutter, Spring Boot, Vert.x**
-
-👨‍💻 All of my projects are available at [Github](https://github.com/Jacob3075?tab=repositories)
-
 ## 🌐Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/jacob-bosco) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/13181948)
 
@@ -29,8 +24,6 @@
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white)
-![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white)
 
 ![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white)
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
@@ -55,6 +48,9 @@
 
 ![](https://github-readme-stats.vercel.app/api/wakatime?username=Jacob3075&layout=compact&theme=tokyonight&hide_border=true&range=last_7_days&langs_count=4)
 ---
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=jacob3075&theme=tokyonight)
 
 [![@jacob3076's Holopin board](https://holopin.me/jacob3076)](https://holopin.io/@jacob3076)
 
